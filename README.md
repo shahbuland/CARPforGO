@@ -11,3 +11,7 @@ To train a model, run
 ```python -m carp.pytorch.training.train --data_path="carp/dataset" --config_path ./configs/base_config.yml```
 
 Finetuning via CoOp now available. Preference learning coming soon!
+  
+# CARPforGO  
+
+Purpose of this fork is to experiment with using CARP for the dataset created in [Understanding Game-Playing Agents with Natural Language Annotations](https://arxiv.org/abs/2204.07531)
